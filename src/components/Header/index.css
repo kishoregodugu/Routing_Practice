@@ -1,0 +1,27 @@
+/* Write your CSS code here */
+.wave {
+  height: 40px;
+}
+.img-container {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+.para {
+  font-weight: bold;
+  margin-left: 10px;
+}
+.nav-bar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+li {
+  list-style-type: none;
+  font-weight: bold;
+  margin-right: 15px;
+}
+.ul-container {
+  display: flex;
+  align-items: center;
+}
